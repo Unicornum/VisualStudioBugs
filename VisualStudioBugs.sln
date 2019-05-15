@@ -16,6 +16,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PragmaMessageFromTemplate",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenObjFile", "OpenObjFile\OpenObjFile.vcxproj", "{8C8B7968-933C-45E7-A5EC-EBAFA6CEB7E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BuildWithEarlierLibrary", "BuildWithEarlierLibrary\BuildWithEarlierLibrary.vcxproj", "{A7A79FEF-BFF8-4CBA-9F3C-8320A8A573A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -56,6 +58,13 @@ Global
 		{8C8B7968-933C-45E7-A5EC-EBAFA6CEB7E1}.Release|x64.Build.0 = Release|x64
 		{8C8B7968-933C-45E7-A5EC-EBAFA6CEB7E1}.Release|x86.ActiveCfg = Release|Win32
 		{8C8B7968-933C-45E7-A5EC-EBAFA6CEB7E1}.Release|x86.Build.0 = Release|Win32
+		{A7A79FEF-BFF8-4CBA-9F3C-8320A8A573A5}.Debug|x64.ActiveCfg = Release|x64
+		{A7A79FEF-BFF8-4CBA-9F3C-8320A8A573A5}.Debug|x64.Build.0 = Release|x64
+		{A7A79FEF-BFF8-4CBA-9F3C-8320A8A573A5}.Debug|x86.ActiveCfg = Release|x64
+		{A7A79FEF-BFF8-4CBA-9F3C-8320A8A573A5}.Debug|x86.Build.0 = Release|x64
+		{A7A79FEF-BFF8-4CBA-9F3C-8320A8A573A5}.Release|x64.ActiveCfg = Release|x64
+		{A7A79FEF-BFF8-4CBA-9F3C-8320A8A573A5}.Release|x64.Build.0 = Release|x64
+		{A7A79FEF-BFF8-4CBA-9F3C-8320A8A573A5}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
