@@ -44,7 +44,7 @@ __pragma(message("Pragma message: шаблонная функция 2"));
 
 ...\Simple.vcxproj : error MSB4057: в проекте нет целевого объекта "GetRecipeFile".
 
-## Исправлено
+## Найдено решение
 
 ### BuildWithEarlierLibrary
 
@@ -54,3 +54,7 @@ __pragma(message("Pragma message: шаблонная функция 2"));
 линковщика параметр
 
 /d2:-AllowCompatibleILVersions
+
+## Исправлено
+
+...
