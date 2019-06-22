@@ -32,7 +32,7 @@ __pragma(message("Pragma message: шаблонная функция 2"));
 
 ...\Simple.vcxproj : error MSB4057: в проекте нет целевого объекта "GetRecipeFile".
 
-## Найдено решение
+## Найдено обходное решение
 
 ### BuildWithEarlierLibrary
 
