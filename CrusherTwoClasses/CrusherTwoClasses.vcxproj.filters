@@ -4,6 +4,7 @@
     <ClCompile Include="Example1.cpp" />
     <ClCompile Include="Example2.cpp" />
     <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="CrusherTwoClasses.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Example1.hpp" />
