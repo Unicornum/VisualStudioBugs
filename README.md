@@ -16,6 +16,8 @@
 
 #pragma warning(push, 0)
 
+- [Экспериментальный способ отключения предупреждений](https://habr.com/ru/company/pvs-studio/blog/347686/)
+
 ### PragmaMessageFromTemplate
 
 Следующая директива выводит предупреждение игнорируя русские буквы при 
