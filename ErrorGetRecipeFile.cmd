@@ -1,6 +1,6 @@
 @echo off
 
-set MSBuild="%ProgramFiles% (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\msbuild.exe"
+set MSBuild="D:\Program Files\Visual Studio 2022\MSBuild\Current\Bin\amd64\msbuild.exe"
 
 %MSBuild% ErrorGetRecipeFile.sln /t:BuildAll:Rebuild /p:Configuration=Debug;Platform=x64
 
