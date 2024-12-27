@@ -10,4 +10,7 @@
       <Filter>Common</Filter>
     </ResourceCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Example.cpp" />
+  </ItemGroup>
 </Project>

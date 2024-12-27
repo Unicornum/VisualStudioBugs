@@ -4,7 +4,9 @@
   <PropertyGroup Label="UserMacros">
     <ThisFileDirectory>$(MSBuildThisFileDirectory)</ThisFileDirectory>
   </PropertyGroup>
-  <PropertyGroup />
+  <PropertyGroup>
+    <IncludePath>$(ThisFileDirectory);$(IncludePath)</IncludePath>
+  </PropertyGroup>
   <ItemDefinitionGroup>
     <PostBuildEvent>
       <Command>%(Command)
