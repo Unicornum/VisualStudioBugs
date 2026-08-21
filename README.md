@@ -5,7 +5,7 @@
 
 ## Все еще актуально 16.08.2026 (v18.9.0)
 
-###ThisFileDirectory
+### ThisFileDirectory
 
 Макрос ThisFileDirectory, определенный в .props файле как $(MSBuildThisFileDirectory),
 обрабатывается в рамках своего .props файла:
